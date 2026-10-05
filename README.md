@@ -50,4 +50,8 @@ Strengthening software engineering, AI/ML, DSA, communication, and open-source c
 
 Personal profile links are intentionally omitted here because no personal GitHub, LinkedIn, portfolio, or email URLs were supplied.
 
+---
 
+<p align="center">
+  <sub>Built as a self-contained GitHub profile interface · no external assets · SVG-native animation</sub>
+</p>
